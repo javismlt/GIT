@@ -11,7 +11,7 @@ ArrayList<Integer> listacantidad = new ArrayList<>();
 Scanner scanner = new Scanner(System.in);
 
 while (true) {
-//
+
 System.out.println("\nMenú:");
 System.out.println("1. Agregar producto");
 System.out.println("2. Actualizar inventario");
